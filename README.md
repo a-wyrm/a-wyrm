@@ -1,7 +1,7 @@
 <h1 align="center">Adryana H.</h1>
 
 <p align="center">
-I'm a doctorate student working in computer security, privacy, and accessibility. Please check out my website for my research interests and other projects I'm working on by <a href="https://a-wyrm.github.io/home/" target="_blank"> following this link</a>.
+I'm a doctorate student working in computer security, privacy, and accessibility. Please check out my website for my research interests and other projects I'm working on by <a href="https://a-wyrm.github.io" target="_blank"> following this link</a>.
 </p>
 
 <details>
